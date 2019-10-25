@@ -11,6 +11,8 @@ If you don't know what is account and programm what is account programm (like as
           
             account search research 三者的关系
 　　　　　　 
+            
+            未写完2019.10.25
 
 
-
+ 

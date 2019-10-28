@@ -1,16 +1,21 @@
 # AccountProgramm
 About Account REsearch Programm Focus 账户的逆向反搜索程序汇总集中
 
-If you don't know what is search and what is research then the following is not for you．</br>
-如果你不知道什么是搜索,反搜索,(程序逆向)那么以下内容不适合你,不适合你阅读　　　　　　　　　　　　</br>
+If you don't know what is search and what is research then the following is not for you．         </br>
+如果你不知道什么是搜索,反搜索,(程序逆向)那么以下内容不适合你,不适合你阅读　　　　　　　　　　　　         </br>
 
-If you don't know what is account and programm what is account programm (like as car abs system)</br>
+If you don't know what is account and programm what is account programm (like as car abs system)  </br>
 then the following is not for you. </br>
 如果你不知道什么是账户,程序,账户编程,</br>
-(像是汽车的紧急制动系统,abs此时译为紧急制动紧急刹车),那么以下内容不适合你　　　　　　　　</br>
+(像是汽车的紧急制动系统,abs此时译为紧急制动紧急刹车),那么以下内容不适合你　　　　　　　　                </br>
 
-        
-          
+
+            内容不包含紧急行为,                                                                     </br>
+            例如,字母表中,A到Z,Z到Ａ,用户紧急行为跳转回Ａ或者紧急跳转到Ｚ,紧急停止的行为,               </br>
+            
+            
+            
+            
             account search research 三者的关系
 　　　　　　 
        
@@ -36,6 +41,8 @@ then the following is not for you. </br>
             
             
             Feature Preview 预览 
+            这英语单词太长我记不住 
+            
             
             
             未写完2019.10.25

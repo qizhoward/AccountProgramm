@@ -60,10 +60,7 @@ then the following is not for you.                                              
            on time line search box with linux 
            时间线上的Linux与搜索框框
            
-           
-           
-           
-           
+
            timeline
            时间线
            ｜ ｜
@@ -121,3 +118,9 @@ then the following is not for you.                                              
            ｜ ｜
            ｜ ｜
            ｜ ｜
+
+           ----------
+           
+           未写完2019.11.14
+           
+

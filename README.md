@@ -51,3 +51,74 @@ then the following is not for you.                                              
             LoL 英雄联盟 无限火力 10.29
             
             未写完2019.10.28
+            
+           ----------
+            
+           linux with search
+           Linux思维与搜索框框
+            
+           on time line search box with linux 
+           时间线上的Linux与搜索框框
+           
+           
+           
+           
+           
+           timeline
+           时间线
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜Without considering reservation
+           ｜ ｜不考虑预留的情况下
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜ 
+           ｜ ｜windows priority?on the basis of
+           ｜ ｜windows基础上的优先级
+           ｜ ｜
+           ｜ ｜  on timeline branch?
+           ｜ ｜    时间线上的分支
+           ｜ ｜-----｜
+           ｜ ｜     ｜-｜ 
+           ｜ ｜     ｜ ｜-｜
+           ｜ ｜     ｜ ｜ ｜ search box 搜索框框 搜索盒子
+           ｜ ｜     ｜ ｜-｜ 
+           ｜ ｜     ｜ ｜  
+           ｜ ｜     ｜ ｜other programm incube?include image programm sound programm video game.
+           ｜ ｜     ｜ ｜其他的编程包含图像编程声音编程视频游戏等
+           ｜ ｜     ｜ ｜
+           ｜ ｜     ｜-｜
+           ｜ ｜-----｜ 　
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜Another situation?
+           ｜ ｜另外一种情况
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜　　same on
+           ｜ ｜　timeline branch
+           ｜ ｜  同样在时间线上的分支
+           ｜ ｜-----｜
+           ｜ ｜     ｜-｜
+           ｜ ｜     ｜ ｜search box 搜索框框 搜索盒子
+           ｜ ｜     ｜ ｜ (机械遍历 机器遍历 快速扫描)
+           ｜ ｜     ｜ ｜
+           ｜ ｜     ｜ ｜-｜
+           ｜ ｜     ｜ ｜ ｜other programm incube?include image programm sound programm video game.
+           ｜ ｜     ｜ ｜ ｜其他的编程包含图像编程声音编程视频游戏等
+           ｜ ｜     ｜ ｜ ｜
+           ｜ ｜     ｜ ｜ ｜这种情况下用户可用的部分就会比较少
+           ｜ ｜     ｜ ｜-｜
+           ｜ ｜     ｜ ｜
+           ｜ ｜     ｜ ｜
+           ｜ ｜     ｜-｜
+           ｜ ｜-----｜ 　
+           ｜ ｜
+           ｜ ｜
+           ｜ ｜
+        
+           
+           
